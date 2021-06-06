@@ -9,3 +9,7 @@ This data science project series walks through step by step process of how to bu
 2) Numpy and Pandas for data cleaning
 3) Matplotlib for data visualization
 4) Sklearn for model building
+
+Use <code>banglore_home_prices_model.pickle</code> o test the model. <br>
+
+😄 Happy Coding
